@@ -1,35 +1,36 @@
 # goodnightzsj
 
-> Automation systems, proxy infrastructure, and AI workflow tooling.
+> 主要做自动化、代理链路、AI 工作流，也会写一些偏实用的小工具。
 
-Selected projects I actively build and operate.
+下面这些是我最近在维护或持续打磨的项目。
 
-## Original Projects
+## 项目精选
 
 - [codex-session-cloner](https://github.com/goodnightzsj/codex-session-cloner)  
-  Copy coding-assistant conversation history across providers.
+  在不同编码助手之间迁移历史对话的小工具。
 
 - [pt-invite-watcher](https://github.com/goodnightzsj/pt-invite-watcher)  
-  Watch invite availability with mp and CookieCloud.
+  基于 mp 与 CookieCloud 的开邀监控工具。
 
-## Fork-Derived Systems
+- [move_and_add_torrent](https://github.com/goodnightzsj/move_and_add_torrent)  
+  自动整理影视文件并接入种子处理流程。
+
+- [auto_download_torrent](https://github.com/goodnightzsj/auto_download_torrent)  
+  批量抓取并下载 NexusPHP 站点种子列表。
+
+- [books-manag-system](https://github.com/goodnightzsj/books-manag-system)  
+  一个简洁的图书管理系统练手项目。
 
 - [MySearch-Proxy](https://github.com/goodnightzsj/MySearch-Proxy)  
-  Unified search MCP and proxy console for Tavily, Firecrawl, and X.
+  统一搜索 MCP 与代理控制台，整合 Tavily、Firecrawl 和 X。
 
 - [temp-mail-console](https://github.com/goodnightzsj/temp-mail-console)  
-  Temporary mail console on Cloudflare Workers + D1 with rule-based extraction.
+  基于 Cloudflare Workers + D1 的临时邮箱控制台与规则提取系统。
 
-- [ccg-workflow](https://github.com/goodnightzsj/ccg-workflow)  
-  Multi-model CLI workflow toolkit integrating Claude Code, Codex, and Gemini.
+## 关注方向
 
-- [gemini-business2api](https://github.com/goodnightzsj/gemini-business2api)  
-  OpenAI-compatible Gemini Business API with multi-account load balancing.
+- AI 工作流与自动化
+- 浏览器控制与 MCP 集成
+- 搜索、邮箱、代理与数据通路
 
-## Focus
-
-- AI workflow tooling
-- Browser and MCP automation
-- Search, mail, and proxy systems
-
-Some repositories started from upstream forks and were later adapted into standalone operator tools.
+更多项目可以直接看我的 Repositories。
