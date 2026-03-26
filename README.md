@@ -1,4 +1,4 @@
 - 长期做前端工程，现在更专注用 AI 把前后端、自动化和交付串成完整链路。
 - 主要在做浏览器自动化、MCP、搜索代理、邮箱通路，以及能长期复用的小工具。
-- 最近持续打磨的项目：`codex-session-cloner`、`pt-invite-watcher`、`MySearch-Proxy`、`temp-mail-console`。
+- 最近持续打磨的项目：`codex-session-cloner`、`pt-invite-watcher`、`bookmark-search`、`MySearch-Proxy`、`temp-mail-console`。
 - 更多项目见下方 pinned 和 Repositories。
