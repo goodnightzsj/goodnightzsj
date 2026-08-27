@@ -11,7 +11,7 @@
 - 🔭 Building **AI dev tooling** around Claude Code & Codex — session migration, API gateways, local proxies
 - 🐍 Python-first developer · TypeScript / JavaScript for tooling UIs
 - ⚡ Automating the mundane: PT tracker monitoring, bookmark search, media pipelines
-- 📫 How to reach me: ****
+- 📫 How to reach me: **c0ku4wgwj4t@173339.xyz**
 - 🖋 Blog / personal site (optional — delete this line if you don't have one)
 
 <br clear="right"/>
