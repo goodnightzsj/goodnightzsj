@@ -4,14 +4,14 @@
 
 <img
   align="right"
-  src="https://github-readme-stats.vercel.app/api?username=goodnightzsj&show_icons=true&icon_color=2F81F7&text_color=718096&bg_color=0d1117&hide_title=true"
+  src="https://github-readme-stats-chi-amber-17.vercel.app/api?username=goodnightzsj&show_icons=true&icon_color=2F81F7&text_color=718096&bg_color=0d1117&hide_title=true"
   alt="goodnightzsj GitHub stats" style="width:45%"
 />
 
 - 🔭 Building **AI dev tooling** around Claude Code & Codex — session migration, API gateways, local proxies
 - 🐍 Python-first developer · TypeScript / JavaScript for tooling UIs
 - ⚡ Automating the mundane: PT tracker monitoring, bookmark search, media pipelines
-- 📫 How to reach me: **your email or Telegram**
+- 📫 How to reach me: ****
 - 🖋 Blog / personal site (optional — delete this line if you don't have one)
 
 <br clear="right"/>
